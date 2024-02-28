@@ -11698,7 +11698,7 @@
             "currentEnvironmentId": "2c2d25b9-4e6a-4f99-8fef-10a10d8db769",
             "promotedFrom": null,
             "createdAt": "2024-02-28T14:06:58.475Z",
-            "updatedAt": "2024-02-28T14:07:01.619Z"
+            "updatedAt": "2024-02-28T14:07:38.505Z"
           },
           "components": [
             {
@@ -13638,6 +13638,48 @@
                   "width": 4,
                   "height": 40,
                   "componentId": "a55950fc-fce5-4a94-baa9-f0dcdda2d831"
+                }
+              ]
+            },
+            {
+              "id": "8f05ec81-929f-439b-8b7e-15c127761570",
+              "name": "button10",
+              "type": "Button",
+              "pageId": "3cf1365e-a618-4c5b-b1d7-4ebbef564d18",
+              "parent": null,
+              "properties": {},
+              "general": null,
+              "styles": {},
+              "generalStyles": null,
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-02-28T14:07:38.415Z",
+              "updatedAt": "2024-02-28T14:07:38.415Z",
+              "layouts": [
+                {
+                  "id": "a706ad25-0887-4a25-925a-f213a741c5ec",
+                  "type": "desktop",
+                  "top": 120,
+                  "left": 37.2093023255814,
+                  "width": 3,
+                  "height": 30,
+                  "componentId": "8f05ec81-929f-439b-8b7e-15c127761570"
+                },
+                {
+                  "id": "7e4e23b5-24a5-4679-a0e1-74b2e654e73a",
+                  "type": "mobile",
+                  "top": 120,
+                  "left": 37.2093023255814,
+                  "width": 3,
+                  "height": 30,
+                  "componentId": "8f05ec81-929f-439b-8b7e-15c127761570"
                 }
               ]
             }
@@ -25816,7 +25858,7 @@
               "currentEnvironmentId": "2c2d25b9-4e6a-4f99-8fef-10a10d8db769",
               "promotedFrom": null,
               "createdAt": "2024-02-28T14:06:58.475Z",
-              "updatedAt": "2024-02-28T14:07:01.619Z"
+              "updatedAt": "2024-02-28T14:07:38.505Z"
             }
           ],
           "appEnvironments": [
