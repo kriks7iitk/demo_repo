@@ -159,7 +159,7 @@
         "appV2": {
           "id": "bf13ca33-33f6-41fe-9b39-650fd0fbca15",
           "type": "front-end",
-          "name": "Customer ticketing form",
+          "name": "Customer ticketing Application",
           "slug": "bf13ca33-33f6-41fe-9b39-650fd0fbca15",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -171,7 +171,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-02-28T14:06:58.430Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-02-28T14:07:01.854Z",
+          "updatedAt": "2024-02-28T14:09:55.930Z",
           "editingVersion": {
             "id": "6dccefa1-a2b2-4bfa-855b-74c3a6b17f25",
             "name": "v1",
